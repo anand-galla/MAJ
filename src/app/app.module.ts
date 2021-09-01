@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { OurServicesComponent } from './components/our-services/our-services.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 //import {MatIconModule} from '@angular/material/icon';
 
@@ -12,7 +13,8 @@ import { OurServicesComponent } from './components/our-services/our-services.com
   declarations: [
     AppComponent,
     NavBarComponent,
-    OurServicesComponent
+    OurServicesComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

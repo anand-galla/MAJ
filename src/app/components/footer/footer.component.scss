@@ -1,0 +1,27 @@
+.footer-container {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #948d63;
+    color: #ffffff;
+}
+
+.footer-nav {
+    ul {
+        list-style-type: none;
+
+        li {
+            a {
+                color: white;
+                margin: 10px;
+            }
+        }
+    }
+}
+
+.copyright-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #948d63;
+    color: #ffffff;
+    font-size: 12px;
+}
