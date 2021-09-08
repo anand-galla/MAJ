@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { OurServicesComponent } from './components/our-services/our-services.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { TeamComponent } from './components/team/team.component';
 
 //import {MatIconModule} from '@angular/material/icon';
 
@@ -14,7 +15,8 @@ import { FooterComponent } from './components/footer/footer.component';
     AppComponent,
     NavBarComponent,
     OurServicesComponent,
-    FooterComponent
+    FooterComponent,
+    TeamComponent
   ],
   imports: [
     BrowserModule,
