@@ -8,6 +8,7 @@ import { OurServicesComponent } from './components/our-services/our-services.com
 import { FooterComponent } from './components/footer/footer.component';
 import { TeamComponent } from './components/team/team.component';
 import { WhyUsComponent } from './components/why-us/why-us.component';
+import { SlideshowContainerComponent } from './components/slideshow-container/slideshow-container.component';
 
 //import {MatIconModule} from '@angular/material/icon';
 
@@ -18,7 +19,8 @@ import { WhyUsComponent } from './components/why-us/why-us.component';
     OurServicesComponent,
     FooterComponent,
     TeamComponent,
-    WhyUsComponent
+    WhyUsComponent,
+    SlideshowContainerComponent
   ],
   imports: [
     BrowserModule,
