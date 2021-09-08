@@ -20,10 +20,28 @@
         color: #040707;
         text-align: center;
     }
+
+
     
 }
 
 .service-container {
     margin-bottom: 30px;
     position: relative;
+
+    .right-container {
+        text-align: left;
+
+        h4 {
+            color: rgb(4, 7, 7);
+            text-align: left;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.42857143;
+            color: #040707;
+            margin: 0 0 11px;
+        }
+    }
 }

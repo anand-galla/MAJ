@@ -7,6 +7,7 @@ import { NavBarComponent } from './components/nav-bar/nav-bar.component';
 import { OurServicesComponent } from './components/our-services/our-services.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { TeamComponent } from './components/team/team.component';
+import { WhyUsComponent } from './components/why-us/why-us.component';
 
 //import {MatIconModule} from '@angular/material/icon';
 
@@ -16,7 +17,8 @@ import { TeamComponent } from './components/team/team.component';
     NavBarComponent,
     OurServicesComponent,
     FooterComponent,
-    TeamComponent
+    TeamComponent,
+    WhyUsComponent
   ],
   imports: [
     BrowserModule,
